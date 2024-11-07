@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geology, University of São Paulo, 2021 (in progress)
+* M.S. in Geology, University of São Paulo, 2019 - 2021
+* B.S. in Geology, Federal Rural University of Rio de Janeiro, 2013 - 2018
 
-Work experience
+Research Projects
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
