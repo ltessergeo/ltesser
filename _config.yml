@@ -22,9 +22,9 @@ repository               : "ltessergeo.github.io/ltesser"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lucas Ramos Tesser"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Geologist"
   location         : "Lausanne, Switzerland"
   employer         : "University of Lausanne"
   uri              : # URL
@@ -56,7 +56,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        :  lctesser
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
