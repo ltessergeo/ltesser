@@ -21,7 +21,7 @@ repository               : "ltessergeo.github.io/ltesser"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hammer.png"
   name             : "Lucas Ramos Tesser"
   pronouns         : # example: "she/her"  
   bio              : "Geologist"
