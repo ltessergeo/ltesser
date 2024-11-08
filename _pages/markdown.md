@@ -7,8 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
-
+## Publications
+|| 2021
+|| JMG, Sapphirine
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/
