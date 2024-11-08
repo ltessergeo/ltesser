@@ -1,7 +1,7 @@
 ---
 title: "Exhumation of ultra-high pressure (UHP) rocks modulated by rifted margin-subduction feedback: Implications for their preservation in old collisional orogens"
 collection: publications
-category: scientific papers
+category: Journal Articles
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 01-02-2024
